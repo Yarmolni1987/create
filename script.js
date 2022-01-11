@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>hrllo from JavaScript</h1>'
